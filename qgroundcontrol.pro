@@ -30,3 +30,6 @@ message(Qt version $$[QT_VERSION])
     error("Unsupported Qt version, 5.4+ is required")
 }
 
+QMAKE_CXXFLAGS += -std=c++11
+QMAKE_LFLAGS +=  -std=c++11
+
