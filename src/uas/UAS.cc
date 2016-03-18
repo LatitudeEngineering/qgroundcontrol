@@ -16,6 +16,7 @@
 #include <QDebug>
 
 #include <cmath>
+#include <cfloat>
 #include <qmath.h>
 
 #include <limits>
