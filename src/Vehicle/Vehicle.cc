@@ -21,6 +21,8 @@
 
  ======================================================================*/
 
+using namespace std;
+
 #include "Vehicle.h"
 #include "MAVLinkProtocol.h"
 #include "FirmwarePluginManager.h"

@@ -30,6 +30,8 @@ This file is part of the QGROUNDCONTROL project
  *
  */
 
+using namespace std;
+
 #include <QTimer>
 #include <QList>
 #include <QDebug>

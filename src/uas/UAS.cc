@@ -39,6 +39,8 @@
 #include "Joystick.h"
 #include "QGCApplication.h"
 
+using namespace std;
+
 QGC_LOGGING_CATEGORY(UASLog, "UASLog")
 
 #define UAS_DEFAULT_BATTERY_WARNLEVEL 20
